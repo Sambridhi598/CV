@@ -1,0 +1,19 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    box-sizing: border-box;
+}
+.content{
+color: black;
+margin: 100px auto;
+width: 500px;
+border-radius: 5px;
+padding: 25px 40px;
+background-color: white;
+box-shadow: 20px 30px 20px black;
+}
+h1,h2{
+    color: red;
+}
+body{
+    background-color: plum;
+}
